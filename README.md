@@ -1,2 +1,1 @@
-# hexlet-gits
-# hexlet-git
+NO code No pain
