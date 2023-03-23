@@ -1,1 +1,1 @@
-NO code No pain
+No code no pain
